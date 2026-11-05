@@ -41,4 +41,6 @@ Beginner-level practical project developed for educational purposes.
 
 ---
 
-**Continuously learning and building practical IT skills.**
+**Continuously learning and building practical IT skills.**   ## Project Screenshot
+
+![Cisco Packet Tracer Network Topology](Lan1.PNG)
